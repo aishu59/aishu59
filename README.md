@@ -40,20 +40,10 @@
 
 # 📊 GitHub Stats:
 
+# 📊 GitHub Stats
+
 ![](https://github-readme-stats.vercel.app/api?username=aishu59&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=aishu59&theme=tokyonight&hide_border=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aishu59&theme=tokyonight&hide_border=true&layout=compact)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aishu59&theme=tokyonight)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aishu59&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aishu59&theme=tokyonight)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aishu59&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aishu59&theme=tokyonight&utcOffset=5.5)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=aishu59&icon=5&color=6)](https://visitcount.itsvg.in)
