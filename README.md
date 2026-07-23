@@ -38,8 +38,6 @@
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-# 📊 GitHub Stats:
-
 # 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=aishu59&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
@@ -47,3 +45,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=aishu59&theme=tokyonight&hide_border=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aishu59&theme=tokyonight&hide_border=true&layout=compact)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=aishu59&icon=5&color=6)](https://visitcount.itsvg.in)
