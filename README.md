@@ -40,12 +40,19 @@
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=aishu59&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+# 📊 GitHub Stats
 
-![](https://nirzak-streak-stats.vercel.app/?user=aishu59&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aishu59&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=aishu59&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aishu59&theme=tokyonight&hide_border=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aishu59&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=aishu59&icon=5&color=6)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aishu59&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
