@@ -1,5 +1,10 @@
 # 💫 About Me:
-🎓 CSE (AI & ML) student<br>🔭 Working on a Sign Language to English & Gujarati Converter for Deaf & Mute individuals<br>📚 Completed academic projects in AI, ML, Data Analytics, and Web Development<br>🌱 Learning Python, ML fundamentals, Data Analytics, and Computer Vision basics<br>👯 Open to collaborating on AI/ML and accessibility-focused projects<br>💬 Ask me about ML basics, Python, and academic AI projects
+
+🎓 CSE (AI & ML) Student passionate about Data Analytics and turning raw data into actionable insights
+📊 Skilled in Python, SQL, Excel, Power BI, Tableau, Pandas, and NumPy for data cleaning, analysis, and visualization
+📈 Built end-to-end Data Analytics projects involving data preprocessing, exploratory data analysis (EDA), interactive dashboards, and business insights
+🌱 Currently learning Machine Learning, Statistics, and Computer Vision to strengthen analytical and predictive modeling skills
+👯 Open to collaborating on Data Analytics, Business Intelligence, and AI/ML projects
 
 
 ## 🌐 Socials:
